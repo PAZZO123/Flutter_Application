@@ -1,16 +1,52 @@
-# my_first_flutter_app
+# Flutter Hello World Application 
 
-A new Flutter project.
+This project was created as part of **Flutter Practical Lab 2**. The objective of this lab is to install the Flutter SDK and develop a basic Flutter application that displays **"Hello World"** on the screen.
+
+---
+
+## Project Information
+
+* **Project Name:** Flutter_Application
+* **Lab Title:** Flutter Hello World Application
+* **Purpose:** To understand the fundamentals of Flutter setup, project creation, and running applications on an emulator or physical device.
+
+---
+
+##  Objective
+
+Install the Flutter SDK and create a simple Flutter app that displays **Hello World**.
+
+---
+
+##  Tasks Completed
+
+1. Installed Flutter SDK and verified installation using `flutter doctor`.
+2. Installed VS Code with Flutter and Dart plugins.
+3. Created a new Flutter project named **Flutter_Application**.
+4. Modified the `main.dart` file to display **Hello World**.
+5. Successfully ran the application on Chrome.
+
+---
+
+## Technologies Used
+
+* **Flutter**
+* **Dart**
+* **VS Code / Android Studio**
+* **Android Emulator / Physical Device**
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you want to run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Flutter SDK
+* Dart
+* Android Studio or VS Code
+* An emulator or a physical device
+ *This project serves as a foundation for building more advanced Flutter applications.*
