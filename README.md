@@ -48,5 +48,7 @@ Make sure you have the following installed:
 * Flutter SDK
 * Dart
 * Android Studio or VS Code
-* An emulator or a physical device
+* An emulator or chrome
+
+  
  *This project serves as a foundation for building more advanced Flutter applications.*
