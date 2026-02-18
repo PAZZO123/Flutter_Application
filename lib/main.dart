@@ -13,9 +13,9 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text(
-            "Hello World",
-            style: TextStyle(fontSize: 50,
-              //color: Color.fromARGB(255, 9, 80, 138)
+            "Hello World in Emulator phone not tablet",
+            style: TextStyle(fontSize: 20,
+              color: Color.fromARGB(255, 9, 80, 138)
               ),
           ),
         ),
