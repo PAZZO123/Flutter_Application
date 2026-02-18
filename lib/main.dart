@@ -14,8 +14,9 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text(
             "Hello World",
-            style: TextStyle(fontSize: 150,
-              color: Color.fromARGB(255, 9, 80, 138)),
+            style: TextStyle(fontSize: 50,
+              //color: Color.fromARGB(255, 9, 80, 138)
+              ),
           ),
         ),
       ),
